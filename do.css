@@ -1,0 +1,12 @@
+#imga{
+    border: 1px solid black;
+    width:700px;
+    border-radius: 1%;
+}
+.container{
+    width: 400px;
+    height: 380px;
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 5%;
+}
